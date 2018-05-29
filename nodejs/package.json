@@ -1,0 +1,7 @@
+{
+  "name": "simple-nodejs-mongo-example",
+  "version": "1.0.0",
+  "description": "Simple nodejs mongo example",
+  "main": "index.js",
+  "private": true
+}
